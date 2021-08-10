@@ -1,0 +1,9 @@
+C:\Users\lipta\source\repos\ExclusaInteligente\ExclusaInteligente\bin\Debug\ExclusaInteligente.exe.config
+C:\Users\lipta\source\repos\ExclusaInteligente\ExclusaInteligente\bin\Debug\ExclusaInteligente.exe
+C:\Users\lipta\source\repos\ExclusaInteligente\ExclusaInteligente\bin\Debug\ExclusaInteligente.pdb
+C:\Users\lipta\source\repos\ExclusaInteligente\ExclusaInteligente\obj\Debug\ExclusaInteligente.csprojAssemblyReference.cache
+C:\Users\lipta\source\repos\ExclusaInteligente\ExclusaInteligente\obj\Debug\ExclusaInteligente.Properties.Resources.resources
+C:\Users\lipta\source\repos\ExclusaInteligente\ExclusaInteligente\obj\Debug\ExclusaInteligente.csproj.GenerateResource.cache
+C:\Users\lipta\source\repos\ExclusaInteligente\ExclusaInteligente\obj\Debug\ExclusaInteligente.exe
+C:\Users\lipta\source\repos\ExclusaInteligente\ExclusaInteligente\obj\Debug\ExclusaInteligente.pdb
+C:\Users\lipta\source\repos\ExclusaInteligente\ExclusaInteligente\obj\Debug\ExclusaInteligente.Form1.resources
