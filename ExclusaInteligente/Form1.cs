@@ -12,7 +12,7 @@ using System.Threading;
 
 namespace ExclusaInteligente
 {
-    public partial class Form1 : Form
+    public partial class Principal : Form
     {
         String MP = "0";
         String MPI = "0";
@@ -20,7 +20,7 @@ namespace ExclusaInteligente
         String EP = "0";
         String UL = "0";
 
-        public Form1()
+        public Principal()
         {
             InitializeComponent();
             
